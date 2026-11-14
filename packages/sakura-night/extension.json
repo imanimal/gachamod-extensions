@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "id": "sakura-night",
+  "name": "Sakura night",
+  "version": "1.0.0",
+  "author": "gachamod",
+  "description": "Deep plum panels with a soft pink accent, on top of the Default theme. Works for every game.",
+  "icon": "icon.svg",
+  "themes": ["theme.json"]
+}

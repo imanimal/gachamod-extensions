@@ -1,0 +1,24 @@
+{
+  "name": "Sakura night",
+  "base": "default",
+  "scheme": "dark",
+  "tokens": {
+    "--bg": "#17121a",
+    "--bg-2": "#120e15",
+    "--surface": "#211a25",
+    "--surface-2": "#2b2230",
+    "--surface-3": "#352a3b",
+    "--raised": "#3d3044",
+    "--line": "rgba(255, 214, 236, 0.08)",
+    "--line-2": "rgba(255, 214, 236, 0.16)",
+    "--text": "#f6eef3",
+    "--text-2": "#cdbcc8",
+    "--text-3": "#a38f9d",
+    "--accent": "#ff8fbf",
+    "--on-accent": "#2a0f1d",
+    "--accent-soft": "rgba(255, 143, 191, 0.16)",
+    "--accent-ink": "#ffa8cc",
+    "--ring": "#ffb8d6"
+  },
+  "layout": { "corners": "round" }
+}

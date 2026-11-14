@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "id": "character-notes",
+  "name": "Character notes",
+  "version": "1.0.0",
+  "author": "gachamod",
+  "description": "Adds a Notes tab to every character's page for builds, teams and which outfit goes with what. Notes stay on your PC.",
+  "icon": "icon.svg",
+  "characterTab": { "title": "Notes", "entry": "notes.html" },
+  "permissions": { "library": true }
+}

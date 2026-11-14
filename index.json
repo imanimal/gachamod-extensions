@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "name": "gachamod extensions",
+  "submit": "https://github.com/imanimal/gachamod-extensions/issues/new?template=submit.yml",
+  "packages": [
+    {
+      "id": "character-notes",
+      "name": "Character notes",
+      "version": "1.0.0",
+      "kind": "extension",
+      "author": "gachamod",
+      "description": "Adds a Notes tab to every character's page for builds, teams and which outfit goes with what. Notes stay on your PC.",
+      "games": [],
+      "homepage": null,
+      "icon": "https://raw.githubusercontent.com/imanimal/gachamod-extensions/main/packages/character-notes/icon.svg",
+      "preview": null,
+      "download": "https://raw.githubusercontent.com/imanimal/gachamod-extensions/main/dist/character-notes-1.0.0.zip",
+      "sha256": "178fe57315bdd953edaf3277254eb82018bfdd0b2e712d670275e55ba412d245",
+      "size": 1937,
+      "updated": 1794648154,
+      "app": null,
+      "permissions": {
+        "library": true,
+        "player": false,
+        "net": [],
+        "files": []
+      },
+      "needs": []
+    },
+    {
+      "id": "sakura-night",
+      "name": "Sakura night",
+      "version": "1.0.0",
+      "kind": "theme",
+      "author": "gachamod",
+      "description": "Deep plum panels with a soft pink accent, on top of the Default theme. Works for every game.",
+      "games": [],
+      "homepage": null,
+      "icon": "https://raw.githubusercontent.com/imanimal/gachamod-extensions/main/packages/sakura-night/icon.svg",
+      "preview": null,
+      "download": "https://raw.githubusercontent.com/imanimal/gachamod-extensions/main/dist/sakura-night-1.0.0.zip",
+      "sha256": "e82eb5654fb27b24ce58e5f5fe86bdee2ec2e7c276deb382190f89207fa98f37",
+      "size": 953,
+      "updated": 1794648163,
+      "app": null,
+      "permissions": {
+        "library": false,
+        "player": false,
+        "net": [],
+        "files": []
+      },
+      "needs": []
+    }
+  ]
+}
